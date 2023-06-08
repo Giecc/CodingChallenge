@@ -1,0 +1,59 @@
+*{
+  box-sizing: content-box;
+  margin: 0;
+  font-family: 'Geologica', sans-serif;
+  }
+body{
+  background-image: url('background.jpg');
+  background-size: cover;
+  text-align: center;
+    }
+    header{
+  color: #16d316;
+  font-size: 17px;
+  padding-bottom: 5px;
+}
+img{
+  width: 25%;
+}
+nav{
+  background-color: #16d316;;
+  padding: 10px;
+}
+input{
+    font-weight: bold;
+}
+main{
+  text-align: left;
+  color: white;
+}
+body>div.container{
+  padding: 70px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 2%;
+  width: 60%;
+  margin: auto;
+  margin-top: 2%;
+}
+div>h3{
+  margin-top: 18px;
+}
+div.scooter{
+  padding: 3px;
+}
+.charge{
+  height: 18px;
+  border-radius: 5px;
+}
+#yellow{
+  width: 35%;
+  background-color: #f5b354;
+}
+#green{
+  width: 60%;
+  background-color: #1ec31f;
+}
+#red{
+  width: 15%;
+  background-color: #bf4142;
+}
